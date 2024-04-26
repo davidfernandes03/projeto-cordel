@@ -48,7 +48,6 @@ a:hover {
 section {
     font-family: var(--fonte3);
     font-size: 3.4vw;
-    padding: 10vh 0px 10vh 30px;
     line-height: 2em;    
 }
 
@@ -59,12 +58,14 @@ section > p {
 section.normal {
     background-color: #ffffff;
     color: black;
+    padding: 10vh 0px 10vh 30px;
 }
 
 section.imagem {
     box-shadow: inset 0px 2px 15px rgba(0, 0, 0, 0.507);
     background-size: cover;
     background-attachment: fixed;
+    padding: 10vh 0px 10vh 30px;
 }
 
 section.imagem > p {
