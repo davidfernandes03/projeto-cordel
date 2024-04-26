@@ -49,8 +49,7 @@ section {
     font-family: var(--fonte3);
     font-size: 3.4vw;
     padding: 10vh 0px 10vh 30px;
-    line-height: 2em;
-    
+    line-height: 2em;    
 }
 
 section > p {
@@ -88,7 +87,7 @@ section#foto2 > p {
     background-color: #22222298
 }
 
-footer {
+footer > p {
     background-color: #000000;
     color: white;
     font-size: 18px;
